@@ -1,0 +1,15 @@
+Source: chimera-apache-php
+Section: misc
+Priority: optional
+Maintainer: Brandon Arp <brandon@arpnetworking.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: http://www.arpnetworking.com
+Vcs-Git: ssh://git@git.arpnetworking.com/chimera-apache-php.git
+
+Package: chimera-apache-php
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, php5, apache2
+Description: Apache2 modules for php5
+ Module enabling and misc setup for chimera php environments
+

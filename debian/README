@@ -1,0 +1,6 @@
+The Debian Package chimera-apache-startup
+----------------------------
+
+This package will create the required symlinks to enable php5 in a chimera environment with apache2
+
+ -- Brandon Arp <brandon@arpnetworking.com>  Mon, 21 Nov 2011 10:49:29 -0800
