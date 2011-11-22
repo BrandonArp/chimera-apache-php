@@ -1,3 +1,9 @@
+chimera-apache-php (1.0.0.1) oneiric; urgency=low
+
+  * added needed conf and load files 
+
+ -- Brandon Arp <brandon@arpnetworking.com>  Mon, 21 Nov 2011 17:21:50 -0800
+
 chimera-apache-php (1.0.0.0) oneiric; urgency=low
 
   * Initial Release.

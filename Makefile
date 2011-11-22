@@ -1,4 +1,4 @@
-MODAV = '../mods-available'
+MODAV = '../chimera-mods-available'
 MODEN = $(DESTDIR)/etc/apache2/mods-enabled
 
 build:
