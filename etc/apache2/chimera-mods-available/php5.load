@@ -1,1 +1,4 @@
-LoadModule php5_module ../../usr/lib/apache2/modules/libphp5.so
+PHPINIDir "${ENV_ROOT}/etc/php5/apache2"
+LoadModule php5_module ${ENV_ROOT}/usr/lib/apache2/modules/libphp5.so
+php_value include_path "${ENV_ROOT}/usr/local/lib/php:${ENV_ROOT}/usr/share/php:${ENV_ROOT}/usr/share/pear"
+php_admin_value extension_dir "${ENV_ROOT}/usr/lib/php5/20090626+lfs"
