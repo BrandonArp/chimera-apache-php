@@ -1,3 +1,9 @@
+chimera-apache-php (1.0.0.3) oneiric; urgency=low
+
+  * fixed module parameters 
+
+ -- Brandon Arp <brandon@arpnetworking.com>  Wed, 28 Dec 2011 16:54:07 -0800
+
 chimera-apache-php (1.0.0.2) oneiric; urgency=low
 
   * actually copy the load and conf files to the output directories
