@@ -1,4 +1,4 @@
-FILES = etc
+FILES = etc usr
 MODAV = '../chimera-mods-available'
 MODEN = $(DESTDIR)/etc/apache2/mods-enabled
 

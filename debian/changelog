@@ -1,3 +1,9 @@
+chimera-apache-php (1.0.0.4) oneiric; urgency=low
+
+  * added a dynamic php extension directory link creator
+
+ -- Brandon Arp <brandon@arpnetworking.com>  Tue, 03 Jan 2012 23:11:42 -0800
+
 chimera-apache-php (1.0.0.3) oneiric; urgency=low
 
   * fixed module parameters 
